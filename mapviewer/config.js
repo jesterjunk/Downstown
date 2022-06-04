@@ -53,7 +53,6 @@ deeds.push(new Deed('The Shivering Isle', 5733, 3943, 83, false, 5726, 3936, 574
 deeds.push(new Deed('New Independence', 5752, 5692, 64, false, 5737, 5677, 5777, 5722));
 deeds.push(new Deed('Veggiefruit', 3264, 5711, 27, false, 3239, 5686, 3289, 5736));
 deeds.push(new Deed('Hungary', 4015, 4866, 511, false, 3975, 4806, 4039, 4906));
-deeds.push(new Deed('Zena', 4322, 5091, 49, false, 4312, 5081, 4332, 5101));
 deeds.push(new Deed('The Little Valley Ranch', 6371, 2151, 59, false, 6356, 2136, 6386, 2181));
 deeds.push(new Deed('Midgard', 4244, 3092, 78, false, 4234, 3077, 4254, 3099));
 deeds.push(new Deed('Wild Goose Landing', 4629, 3562, 67, false, 4613, 3546, 4645, 3578));
@@ -84,7 +83,7 @@ deeds.push(new Deed('Firefly Lake', 1188, 6625, 72, false, 1163, 6590, 1208, 664
 deeds.push(new Deed('Hillsbrad Foothill', 4139, 4863, 365, false, 4127, 4848, 4151, 4878));
 deeds.push(new Deed('Dewdrop Monastery', 3979, 4398, 75, false, 3967, 4393, 3984, 4403));
 deeds.push(new Deed('Baybuck', 6889, 4895, 79, false, 6869, 4875, 6904, 4915));
-deeds.push(new Deed('Willoughby', 3007, 8064, 65, false, 3002, 8059, 3012, 8069));
+deeds.push(new Deed('Willoughby', 3007, 8064, 65, false, 2992, 8049, 3022, 8079));
 deeds.push(new Deed('Chateau Ephy', 1458, 7061, 112, false, 1443, 7046, 1473, 7076));
 deeds.push(new Deed('Woods Of Cedar', 3406, 6335, 212, false, 3386, 6315, 3476, 6355));
 deeds.push(new Deed('Lake View Manor', 4293, 5281, 34, false, 4285, 5276, 4298, 5297));
@@ -95,7 +94,10 @@ deeds.push(new Deed('Green Town', 6853, 2448, 80, false, 6848, 2443, 6858, 2453)
 deeds.push(new Deed('Misty Lake', 2079, 7361, 89, false, 2056, 7323, 2110, 7371));
 deeds.push(new Deed('Krusty Shallows', 5452, 7648, 5, false, 5447, 7643, 5457, 7653));
 deeds.push(new Deed('Watercrest', 3832, 6282, 99, false, 3817, 6267, 3847, 6297));
-deeds.push(new Deed('Zilch', 4360, 4600, 319, false, 4305, 4510, 4415, 4620));
+deeds.push(new Deed('Zilch', 4360, 4600, 320, false, 4305, 4510, 4415, 4620));
+deeds.push(new Deed('Ocean Eye', 481, 4150, 414, false, 476, 4145, 486, 4155));
+deeds.push(new Deed('Butterpond', 3887, 5180, 39, false, 3882, 5175, 3892, 5185));
+deeds.push(new Deed('Buterpond Ii', 4572, 5064, 63, false, 4567, 5053, 4583, 5069));
 focusZones.push(new FocusZone('Halo Pointe', 1027, 192, 2, 3, 1012, 177, 1042, 207));
 focusZones.push(new FocusZone('Roundtop Ridge', 311, 389, 2390, 3, 111, 189, 511, 589));
 focusZones.push(new FocusZone('Dragon\'s Head Peak', 1262, 1306, 2737, 3, 1062, 1106, 1462, 1506));
