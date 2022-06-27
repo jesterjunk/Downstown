@@ -45,7 +45,6 @@ deeds.push(new Deed('The Dragon\'s Maw', 958, 1368, 79, false, 948, 1345, 968, 1
 deeds.push(new Deed('Cedar Nook', 4085, 4405, 71, false, 4055, 4393, 4097, 4417));
 deeds.push(new Deed('Silver Mountain', 1280, 1225, 3620, false, 1260, 1205, 1300, 1245));
 deeds.push(new Deed('Port Al', 4570, 3426, 306, false, 4550, 3406, 4590, 3446));
-deeds.push(new Deed('City Of Dragon Tail Ridge', 2295, 1075, 1749, false, 2290, 1070, 2300, 1080));
 deeds.push(new Deed('Cresta', 4004, 4646, 2, false, 3993, 4606, 4010, 4654));
 deeds.push(new Deed('The Shivering Isle', 5733, 3943, 83, false, 5726, 3936, 5740, 3950));
 deeds.push(new Deed('New Independence', 5752, 5692, 64, false, 5737, 5677, 5777, 5722));
@@ -62,7 +61,7 @@ deeds.push(new Deed('The Boomerang Point', 4911, 4322, 2836, false, 4901, 4312, 
 deeds.push(new Deed('Wayne\'s Market And House Of Peace', 4407, 4234, 815, false, 4402, 4229, 4412, 4239));
 deeds.push(new Deed('Winterfell', 3396, 478, 161, false, 3342, 441, 3416, 515));
 deeds.push(new Deed('Solitude', 3743, 5570, 58, false, 3733, 5506, 3753, 5580));
-deeds.push(new Deed('Hawks Nest', 549, 5967, 441, false, 524, 5942, 574, 5992));
+deeds.push(new Deed('Hawks Nest', 549, 5967, 441, false, 509, 5942, 574, 5997));
 deeds.push(new Deed('Tanstaafl', 4603, 4507, 412, false, 4588, 4482, 4628, 4522));
 deeds.push(new Deed('Twisted Branch Land And Livestock', 6819, 3406, 72, false, 6809, 3396, 6829, 3416));
 deeds.push(new Deed('Simplicity', 4163, 4023, 64, false, 4154, 4014, 4169, 4028));
@@ -92,6 +91,7 @@ deeds.push(new Deed('Villa De La Luz', 5312, 4845, 58, false, 5272, 4825, 5332, 
 deeds.push(new Deed('Hawthorn', 5669, 4708, 80, false, 5659, 4698, 5687, 4718));
 deeds.push(new Deed('Downstown', 4055, 4641, 70, false, 4030, 4621, 4080, 4676));
 deeds.push(new Deed('Fragglerock Town', 4139, 4863, 365, false, 4126, 4851, 4152, 4875));
+deeds.push(new Deed('Kopper\'s Ridge', 3764, 2000, 58, false, 3734, 1980, 3794, 2050));
 focusZones.push(new FocusZone('Halo Pointe', 1027, 192, 2, 3, 1012, 177, 1042, 207));
 focusZones.push(new FocusZone('Roundtop Ridge', 311, 389, 2390, 3, 111, 189, 511, 589));
 focusZones.push(new FocusZone('Dragon\'s Head Peak', 1262, 1306, 2737, 3, 1062, 1106, 1462, 1506));
